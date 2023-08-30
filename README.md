@@ -3,8 +3,6 @@
 <h3 align="center">From Frontend Artistry to Backend Magic: My Full Stack Tale</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahariaz" alt="shahariaz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ahammedshahriaz" target="blank"><img src="https://img.shields.io/twitter/follow/ahammedshahriaz?logo=twitter&style=for-the-badge" alt="ahammedshahriaz" /></a> </p>
 
 - 🔭 I’m currently working on [SARCO](https://github.com/shahariaz/SARCO.git)
