@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SARCO](https://github.com/shahariaz/SARCO.git)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **DSA AND C++**
 
 - 👯 I’m looking to collaborate on [SARCO](https://github.com/shahariaz/SARCO.git)
 
