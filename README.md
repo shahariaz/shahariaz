@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [SARCO](https://github.com/shahariaz/SARCO.git)
 
-- 🌱 I’m currently learning **DSA AND C++**
+- 🌱 I’m currently learning **DSA AND GOLANG**
 
 - 👯 I’m looking to collaborate on [SARCO](https://github.com/shahariaz/SARCO.git)
 
 - 🤝 I’m looking for help with [SARCO](https://github.com/shahariaz/SARCO.git)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Full-Stack**
 
 - 📫 How to reach me **shahariaz.info@gmail.com**
 
