@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ahammedshahriaz" target="blank"><img src="https://img.shields.io/twitter/follow/ahammedshahriaz?logo=twitter&style=for-the-badge" alt="ahammedshahriaz" /></a> </p>
 
-- 🔭 I’m currently working on [SARCO](https://github.com/shahariaz/SARCO.git)
+- 🔭 I’m currently working on [Connect](https://github.com/shahariaz/SARCO.git)
 
 - 🌱 I’m currently learning **DSA AND GOLANG**
 
-- 👯 I’m looking to collaborate on [SARCO](https://github.com/shahariaz/SARCO.git)
+- 👯 I’m looking to collaborate on [Connect](https://github.com/shahariaz/SARCO.git)
 
-- 🤝 I’m looking for help with [SARCO](https://github.com/shahariaz/SARCO.git)
+- 🤝 I’m looking for help with [Connect](https://github.com/shahariaz/SARCO.git)
 
 - 💬 Ask me about **Full-Stack**
 
